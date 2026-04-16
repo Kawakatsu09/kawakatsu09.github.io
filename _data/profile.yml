@@ -34,7 +34,7 @@ education:
 #    Ph.D. Student
 #  date: Sep. 2024 - present
 - name: "東北大学工学部電気情報物理工学科"
-  logo: /assets/images/badges/PKU_red.png
+  #logo: /assets/images/badges/PKU_red.png
   position: "学士（工学）"
   date: "2022 Apr. - 2026 Mar."
 
