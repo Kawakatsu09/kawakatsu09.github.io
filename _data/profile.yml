@@ -1,10 +1,10 @@
-primary_name: "Yuki Kawakatsu"
+primary_name: "川勝祐貴（Kawakatsu Yuki）"
 #secondary_name: ""
-navbar_name: "Yuki Kawakatsu"
+navbar_name: "川勝祐貴"
 
 positions:
-- name: Undergraduate Student
-- name: Tohoku University
+- name: 修士1年
+- name: 東北大学大学院情報科学研究科
   #logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
@@ -21,7 +21,7 @@ twitter: Kawakatsu_nlp  # Do not include the '@' symbol
 
 short_bio_text_justify: false
 short_bio: >-
- To be added.
+大規模言語モデルの安全性に興味があります。
 
 #portrait_url: /assets/images/photos/portrait.jpg
 #portrait_caption: >-
@@ -34,10 +34,10 @@ education:
 #    Department of Electrical Engineering and Computer Science <br/>
 #    Ph.D. Student
 #  date: Sep. 2024 - present
-#- name: Peking University
-#  logo: /assets/images/badges/PKU_red.png
-#  position: B.S. in Computer Science
-#  date: Sep. 2019 - Jul. 2021
+- name: 東北大学工学部電気情報物理工学科
+  #logo: /assets/images/badges/PKU_red.png
+  position: 学士（工学）
+  date: 2022 4月 - 2026 3月
 
 # experience:
 # - name: Peking University
