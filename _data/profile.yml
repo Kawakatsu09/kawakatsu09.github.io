@@ -1,10 +1,10 @@
-primary_name: "川勝祐貴（Kawakatsu Yuki）"
+primary_name: "川勝祐貴"
 #secondary_name: ""
-navbar_name: "川勝祐貴"
+navbar_name: "川勝祐貴（Kawakatsu Yuki）"
 
 positions:
-- name: "修士1年"
 - name: "東北大学大学院情報科学研究科"
+- name: "修士1年"
   #logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
@@ -34,9 +34,9 @@ education:
 #    Ph.D. Student
 #  date: Sep. 2024 - present
 - name: "東北大学工学部電気情報物理工学科"
-  #logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/PKU_red.png
   position: "学士（工学）"
-  date: "2022 4月 - 2026 3月"
+  date: "2022 Apr. - 2026 Mar."
 
 # experience:
 # - name: Peking University
@@ -46,5 +46,5 @@ education:
 
 awards:
 - name: "言語処理学会第32回年次大会(NLP2026) スポンサー賞(日本電気賞)"
-  date: "2026 5月12日"
+  date: "2026 Mar. 12"
 
